@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": false,
+        "module": "amd",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "out": "util.js"
+    },
+    "files": [
+        "dictionary.ts",
+        "interfaces.ts"
+    ]
+}
